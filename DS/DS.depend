@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:d:\henry\data structure\ds\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1672937402 source:d:\henry\data structure\ds\ds_basics.c
+	<stdio.h>
+	<stdlib.h>
+
